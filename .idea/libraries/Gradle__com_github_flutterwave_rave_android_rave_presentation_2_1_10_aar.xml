@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.flutterwave.rave-android:rave_presentation:2.1.10@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e3e0ff77ac3a2b3fe2d5830a6bac1dd/jetified-rave_presentation-2.1.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e3e0ff77ac3a2b3fe2d5830a6bac1dd/jetified-rave_presentation-2.1.10/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e3e0ff77ac3a2b3fe2d5830a6bac1dd/jetified-rave_presentation-2.1.10/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.flutterwave.rave-android/rave_presentation/2.1.10/d4bc621a498a633757c8f31ad7c3c386e887519c/rave_presentation-2.1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.flutterwave.rave-android:rave_cache:2.1.10@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28ac5fe46f3f35bf62ec2f764f464344/jetified-rave_cache-2.1.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92677181b24664de5c471d6bbcbfbff0/jetified-rave_cache-2.1.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/56d844daf4344e7857b7cfd941a5b891/jetified-rave_cache-2.1.10/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/56d844daf4344e7857b7cfd941a5b891/jetified-rave_cache-2.1.10/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/56d844daf4344e7857b7cfd941a5b891/jetified-rave_cache-2.1.10/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.flutterwave.rave-android/rave_cache/2.1.10/2e0c81f4e88db07843a5a9fdb1bb5f48167514e3/rave_cache-2.1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
